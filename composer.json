@@ -18,6 +18,7 @@
             "email": "info@alcidesramos.com"
         }
     ],
+    "minimum-stability": "stable",
     "require": {
         "php": "^8.0",
         "predis/predis": "^1.1",
