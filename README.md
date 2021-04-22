@@ -185,5 +185,5 @@ $logger = (new Logger(
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](./LICENCE) file for details
+This project is licensed under the MIT License - see the [LICENSE](https://raw.githubusercontent.com/AlcidesRC/php-redis-pubsub/main/LICENSE) file for details
 
